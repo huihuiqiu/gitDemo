@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">ZxingScanner</string>
+    <string name="msg_camera_framework_bug">很遗憾，Android 相机出现问题。你可能需要重启设备。</string>
+	<string name="button_ok">确定</string>
+	
+	
+	<string name="msg_default_format">格式</string>
+	<string name="msg_default_time">时间</string>
+  <string name="msg_default_type">类型</string>
+	
+</resources>
