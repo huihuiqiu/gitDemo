@@ -9,3 +9,7 @@ add new feature1 branch
 
 test D:
 
+change:
+WeApplication remove TODO
+com\hui\zxing\scanner\util add Test.java
+
