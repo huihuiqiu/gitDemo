@@ -41,6 +41,8 @@ import android.widget.ImageView;
 import android.widget.Toast;
 
 public class CaptureActivity extends Activity implements Callback{
+	private static final TAG = "CaptureActivity";
+
 	SurfaceView surfaceView;
 	ViewfinderView viewfinderView;
 	ImageView sImageView;
