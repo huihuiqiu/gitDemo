@@ -16,6 +16,7 @@ public class WeApplication extends Application{
 		// TODO Auto-generated method stub
 		super.onCreate();
 		mContext = this.getApplicationContext();
+		System.out.println("call WeApplication");
 	}
 	
 
