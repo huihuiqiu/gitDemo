@@ -89,11 +89,11 @@ public class CaptureActivity extends Activity implements Callback{
 
 		setContentView(R.layout.capture_layout);
 
-		initView();
+		initView2();
 		initData();
 	}
 
-	private void initView() {
+	private void initView2() {
 		surfaceView = (SurfaceView) findViewById(R.id.preview_view);
 		viewfinderView = (ViewfinderView) findViewById(R.id.viewfinder_view);
 		sImageView = (ImageView) findViewById(R.id.s_imageView);
