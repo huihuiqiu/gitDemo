@@ -5,3 +5,5 @@ CaputreActivity:
 	add TAG
 
 add test.txt
+
+new test
