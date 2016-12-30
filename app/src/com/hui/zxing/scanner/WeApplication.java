@@ -16,8 +16,6 @@ public class WeApplication extends Application{
 		super.onCreate();
 		mContext = this.getApplicationContext();
 
-	if()
-
 	}
 	
 
