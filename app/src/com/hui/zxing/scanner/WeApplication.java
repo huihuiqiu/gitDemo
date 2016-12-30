@@ -16,6 +16,7 @@ public class WeApplication extends Application{
 		super.onCreate();
 		mContext = this.getApplicationContext();
 		System.out.println("call WeApplication");
+	if()
 	}
 	
 
