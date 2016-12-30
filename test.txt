@@ -1,9 +1,0 @@
-WeApplication :
-	add System.out
-
-CaputreActivity:
-	add TAG
-
-add test.txt
-
-new test
