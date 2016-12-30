@@ -1,3 +1,2 @@
-update CaptureAcitivyt initData initView 
-remove Test.java
+remove test.txt
 
